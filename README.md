@@ -52,7 +52,7 @@
 ---
 
 ## 📄 Resume
-You can find my full resume [here]([Resume/Menelik_Melesse_Resume.pdf](https://github.com/melessemenelik/melessemenelik-portfolio/blob/main/Menlik%20Melesse_Resume.pdf)).
+You can find my full resume [here]([Resume/Menelik_Melesse_Resume.pdf]([https://github.com/melessemenelik/melessemenelik-portfolio/blob/main/Menlik%20Melesse_Resume.pdf)](https://github.com/melessemenelik/melessemenelik-portfolio/blob/main/README.md)).
 
 ---
 
