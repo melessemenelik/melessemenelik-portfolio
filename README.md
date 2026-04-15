@@ -60,17 +60,6 @@ You can find my full resume [here](https://github.com/melessemenelik/melessemene
 ## 🌟 Summary
 Passionate about transforming complex data into actionable insights that improve patient outcomes and business impact. Experienced in healthcare compliance, large-scale ML workflows, and cross-functional collaboration.
 
-## 🔄 Professional Workflow  
-
-```mermaid
-flowchart LR
-    A[📊 Data Collection] --> B[⚙️ Preprocessing & Feature Engineering]
-    B --> C[🤖 Model Development (ML & NLP)]
-    C --> D[🚀 MLOps Deployment (FastAPI + Docker)]
-    D --> E[☁️ Cloud Platforms (AWS / Azure)]
-    E --> F[📈 Visualization & Reporting (Tableau, Power BI, Python Dashboards)]
-    F --> G[🌟 Business & Healthcare Impact]
-
 
 📍 This shows how you move from raw data → modeling → deployment → cloud → visualization → impact.
 
@@ -175,4 +164,15 @@ cd melessemenelik-portfolio
 
 - **[Monitoring & drift detection](ca://s?q=Add_monitoring_and_drift_detection_in_portfolio)**  
   Add Prometheus/Grafana dashboards and MLflow tracking for performance, fairness, and drift monitoring.
+
+## 🔄 Professional Workflow  
+
+```mermaid
+flowchart LR
+    A[📊 Data Collection] --> B[⚙️ Preprocessing & Feature Engineering]
+    B --> C[🤖 Model Development (ML & NLP)]
+    C --> D[🚀 MLOps Deployment (FastAPI + Docker)]
+    D --> E[☁️ Cloud Platforms (AWS / Azure)]
+    E --> F[📈 Visualization & Reporting (Tableau, Power BI, Python Dashboards)]
+    F --> G[🌟 Business & Healthcare Impact]
 
