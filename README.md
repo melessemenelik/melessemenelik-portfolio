@@ -170,12 +170,12 @@ cd melessemenelik-portfolio
 
 ```mermaid
 flowchart LR
-    A["Data Collection"] --> B["Preprocessing &<br>Feature Engineering"]
+    A["Data Collection"] --> B["Preprocessing & Features"]
     B --> C["Model Development:<br>ML & NLP"]
     C --> D["MLOps Deployment:<br>FastAPI + Docker"]
     D --> E["Cloud Platforms:<br>AWS / Azure"]
-    E --> F["Visualization & Reporting:<br>Tableau<br>Power BI<br>Dashboards"]
-    F --> G["Business & Healthcare Impact"]
+    E --> F["Visualization:<br>Tableau, Power BI, Dashboards"]
+    F --> G["Business Impact:<br>Healthcare Outcomes"]
 
 
 
