@@ -174,8 +174,8 @@ flowchart LR
     B --> C["Model Development:<br>ML & NLP"]
     C --> D["MLOps Deployment:<br>FastAPI + Docker"]
     D --> E["Cloud Platforms:<br>AWS / Azure"]
-    E --> F["Visualization:<br>Tableau, Power BI, Dashboards"]
-    F --> G["Business Impact:<br>Healthcare Outcomes"]
+    E --> F["Visualization:<br>Tableau, Power BI"]
+    F --> G["Business & Healthcare Impact"]
 
 
 
