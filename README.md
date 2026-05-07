@@ -170,10 +170,10 @@ cd melessemenelik-portfolio
 
 ```mermaid
 flowchart LR
-    A[📊 Data Collection] --> B[⚙️ Preprocessing & Feature Engineering]
-    B --> C[🤖 Model Development (ML & NLP)]
-    C --> D[🚀 MLOps Deployment (FastAPI + Docker)]
-    D --> E[☁️ Cloud Platforms (AWS / Azure)]
-    E --> F[📈 Visualization & Reporting (Tableau, Power BI, Python Dashboards)]
-    F --> G[🌟 Business & Healthcare Impact]
+    A[📊 Data Collection] --> B[Preprocessing & Feature Engineering]
+    B --> C[Model Development (ML & NLP)]
+    C --> D[MLOps Deployment (FastAPI + Docker)]
+    D --> E[Cloud Platforms (AWS / Azure)]
+    E --> F[Visualization & Reporting (Tableau, Power BI, Python Dashboards)]
+    F --> G[Business & Healthcare Impact]
 
