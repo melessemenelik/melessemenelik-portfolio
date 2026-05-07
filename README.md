@@ -170,7 +170,7 @@ cd melessemenelik-portfolio
 
 ```mermaid
 flowchart LR
-    A[📊 Data Collection] --> B[Preprocessing & Feature Engineering]
+    A[Data Collection] --> B[Preprocessing & Feature Engineering]
     B --> C[Model Development (ML & NLP)]
     C --> D[MLOps Deployment (FastAPI + Docker)]
     D --> E[Cloud Platforms (AWS / Azure)]
